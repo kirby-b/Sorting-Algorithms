@@ -6,12 +6,12 @@ Bogo Sort
 
 # Planned Algorithms
 Quick sort <br />  
-Merge sort
-Bubble sort
-Selection sort
-Insertion sort
-Heap sort
-Shell sort
-Tree sort
-Bead/Gravity sort
-Pancake Sort
+Merge sort <br />  
+Bubble sort <br />  
+Selection sort <br />  
+Insertion sort <br />  
+Heap sort <br />  
+Shell sort <br />  
+Tree sort <br />  
+Bead/Gravity sort <br />  
+Pancake Sort <br />  
