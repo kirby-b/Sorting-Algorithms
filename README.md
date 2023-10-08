@@ -5,7 +5,7 @@ I got bored in class and decided to build sorting stuff cause why not
 Bogo Sort
 
 # Planned Algorithms
-Quick sort <br>
+Quick sort <br />  
 Merge sort
 Bubble sort
 Selection sort
