@@ -3,7 +3,7 @@ I got bored in class and decided to build sorting stuff cause why not
 
 # Featured Algorithms
 -**Arbitrary and Purposefully Bad Sorts**<br /> 
-Bogo Sort
+Bogo Sort<br />
 -**Comparison Sorts**<br /> 
 Quick sort <br /> 
 # Planned Algorithms
