@@ -2,11 +2,12 @@
 I got bored in class and decided to build sorting stuff cause why not
 
 # Featured Algorithms
-Bogo Sort
-
+-**Arbitrary and Purposefully Bad Sorts**<br /> 
+Bogo Sort<br />
+-**Comparison Sorts**<br /> 
+Quick sort <br /> 
 # Planned Algorithms
 -**Comparison Sorts**<br /> 
-Quick sort <br />  
 Merge sort <br />  
 Bubble sort <br />  
 Selection sort <br />  
