@@ -18,7 +18,7 @@ def main():
 
 def quickSort(sortingArray: list[int], start: int, end: int):
 		
-		if(end <= start): return #base case
+		if(end <= start): return
 		
 		pivot = partition(sortingArray, start, end)
 		quickSort(sortingArray, start, pivot - 1)
