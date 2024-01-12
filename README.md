@@ -6,10 +6,10 @@ I got bored in class and decided to build sorting stuff cause why not
 Bogo Sort<br />
 -**Comparison Sorts**<br /> 
 Quick sort <br /> 
+Bubble sort <br />
 # Planned Algorithms
 -**Comparison Sorts**<br /> 
 Merge sort <br />  
-Bubble sort <br />  
 Selection sort <br />  
 Insertion sort <br />  
 Heap sort <br />  
