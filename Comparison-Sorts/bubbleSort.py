@@ -24,6 +24,6 @@ class BubbleSort():
 					array[y+1] = temp
 				
 			
-if __name__ == "__main__":
-    BubbleSort.main()
+	if __name__ == "__main__":
+    		BubbleSort.main()
 	
