@@ -1,4 +1,4 @@
-class QuickSort:
+class QuickSort():
 	def main():	
 	    	# quick sort = moves smaller elements to left of a pivot.
 	    	#			   recursively divide array in 2 partitions
