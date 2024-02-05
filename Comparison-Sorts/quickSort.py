@@ -45,5 +45,5 @@ class QuickSort():
 			
 			return i
 		
-	if __name__ == "__main__":
-	    main()
+if __name__ == "__main__":
+    QuickSort.main()
