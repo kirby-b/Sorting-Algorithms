@@ -9,12 +9,12 @@ class BubbleSort():
 		
 		nums = [9, 1, 8, 2, 7, 3, 6, 4, 5]
 		
-		BubbleSort.bubbleSort(nums)
+		BubbleSort.bubble_sort(nums)
 		
 		for x in range(len(nums)):
 			print(nums[x] , end="")
 	
-	def bubbleSort(array):
+	def bubble_sort(array):
 		
 		for x in range(len(array) - 1):
 			for y in range(len(array)- x - 1):
