@@ -17,5 +17,5 @@ class BogoSort():
         return True
         #Checks if it is sorted
     
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    BogoSort.main()
