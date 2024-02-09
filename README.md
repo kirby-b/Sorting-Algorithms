@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-I researched a bunch of different sorting algorithms while bored in class and decided to start making them.
+I researched a bunch of different sorting algorithms while bored in class and decided to start making them. If I dont have a sort type here, I will have it eventually.
 
 # Featured Algorithms
 
