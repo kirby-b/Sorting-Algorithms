@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-I got bored in class and decided to build sorting stuff cause why not
+I researched a bunch of different sorting algorithms while bored in class and decided to start making them.
 
 # Featured Algorithms
 
