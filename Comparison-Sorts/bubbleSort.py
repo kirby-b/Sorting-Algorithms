@@ -15,7 +15,6 @@ class BubbleSort():
 			print(nums[x] , end="")
 	
 	def bubble_sort(array):
-		
 		for x in range(len(array) - 1):
 			for y in range(len(array)- x - 1):
 				if(array[y] > array[y+1]):
