@@ -4,8 +4,11 @@ I researched a bunch of different sorting algorithms while bored in class and de
 # Featured Algorithms
 
 -**Purposefully Bad Sorts**<br /> 
-Bogo Sort<br />
+Bogo Sort
 
--**Comparison Sorts**<br /> 
-Quick sort <br /> 
-Bubble sort <br />
+-**Comparison/Practical Sorts**<br /> 
+Quick sort
+
+Bubble sort
+
+Merge sort
