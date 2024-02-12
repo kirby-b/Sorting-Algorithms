@@ -7,11 +7,11 @@ class BubbleSort():
 	
 	def main():
 		
-		nums = [9, 1, 8, 2, 7, 3, 6, 4, 5]
+		nums = [9, 1, 8, 2, 7, 3, 6, 4, 5] #Nums to be passed in
 		
 		BubbleSort.bubble_sort(nums)
 		
-		for x in range(len(nums)):
+		for x in range(len(nums)): #Prints out the sorted string
 			print(nums[x] , end="")
 	
 	def bubble_sort(array):
